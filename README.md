@@ -1,16 +1,10 @@
 # com.jsrmobile.queson
 
-A new Flutter project.
+Queson app opens the camera feed and detects the object on the screen.  The detected name of the object is printed on the screen.
+Used Flutter and Google's ML Kit Image Labeling for Flutter (https://pub.dev/packages/google_mlkit_image_labeling).
 
-## Getting Started
+## Demo video
 
-This project is a starting point for a Flutter application.
+(Queson object detection: https://drive.google.com/file/d/16Ttxq8RmtjsAKwXGu-Rj-woWm-f9RL2R/view)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
